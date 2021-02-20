@@ -1,5 +1,20 @@
 # OLÁ! <br/>EU SOU O JONATHAN!
 
+
+function ingressarPrimeiroJob(){
+
+	var tecnologias = ['Java', 'JavaScript', 'Springboot', 'Angular', 'MySQL']
+	var destino = 'Empresa que cuida de seus colaboradores, com respeito e repleta de oportunidades de crescimento pessoal e profissional.' 
+	
+	if(tecnologias != null && destino != undefined ){
+		return Math.pow(dedicacao * empenho)
+	}
+	
+	
+	
+}
+
+
 |                   |TECNOLOGIA DE ESTUDO           |REPOSITÓRIO DE ESTUDO/PORTFÓLIO       |
 |-------------------|-------------------------------|--------------------------------------|
 |<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />            |JAVA            |https://github.com/jonathanferreira33/Java_Udemy_LeonardoMouraLeitao                     |
