@@ -1,18 +1,4 @@
-# OLÁ! <br/>EU SOU O JONATHAN!
-
-
-function ingressarPrimeiroJob(){
-
-	var tecnologias = ['Java', 'JavaScript', 'Springboot', 'Angular', 'MySQL']
-	var destino = 'Empresa que cuida de seus colaboradores, com respeito e repleta de oportunidades de crescimento pessoal e profissional.' 
-	
-	if(tecnologias != null && destino != undefined ){
-		return Math.pow(dedicacao * empenho)
-	}
-	
-	
-	
-}
+# Hi, welcome to my GitHub! party blob
 
 
 |                   |TECNOLOGIA DE ESTUDO           |REPOSITÓRIO DE ESTUDO/PORTFÓLIO       |
