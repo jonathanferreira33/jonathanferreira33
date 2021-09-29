@@ -1,4 +1,4 @@
-# Hi, welcome to my GitHub! party blob
+# Hi, welcome to my GitHub! 
 
 
 |                   |TECNOLOGIA DE ESTUDO           |REPOSITÓRIO DE ESTUDO/PORTFÓLIO       |
